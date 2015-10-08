@@ -1,4 +1,2 @@
 # hello-world
-practice practice practice ... better.
-
-edited more
+Hi!  One of my cats is named Ninja Cat! 
